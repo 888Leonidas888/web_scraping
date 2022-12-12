@@ -35,3 +35,23 @@ Eso es todo,aquí el enlace al video tutorial.
 
 
 
+*Utilizamos una API, para consultar*--
+
+Accedemos a la carpeta 'consulta dni' dentro tenemos dos archivos;consulta api dni.xlsm y tokenJson.json.
+
+En este caso realizaremos una consulta de dni a través de una api. Para ello el proveedor que utilizaremos nos brindará un token para poder hacer las consultas, este token lo almacenaremos dentro del archivo 'tokenJson.json'
+
+Proveedor para el API:
+-https://apiperu.dev/
+
+Activar las siguientes referencias en la pestaña de herramientas:
+-Microsoft XML v6.0
+-Microsoft Scripting Runtime
+
+Deberá descargar el JsonConverter de GitHub.
+-https://github.com/VBA-tools/VBA-JSON
+
+Enlace al video tutorial.
+https://youtu.be/VoxvbqspG9U
+
+
